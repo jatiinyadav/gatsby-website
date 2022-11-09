@@ -7,6 +7,8 @@
   Gatsby minimal starter
 </h1>
 
+`Companies using: React official Website`
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
