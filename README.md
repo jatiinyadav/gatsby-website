@@ -7,6 +7,22 @@
   Gatsby minimal starter
 </h1>
 
+`Companies using: React official Website`
+
+ - Gatsby is more into CSR while Next is more into SSR
+ - Static Websites: Gatsby
+ - Dynamic Websites: Next
+ - Both high performance, React Frameworks
+ - Code splitting and caching Next.js high
+ - Next.js has own router
+ 
+ - Gatsby using GraphQl API
+ - Next js we can use any
+ 
+ - Image Optimization: More with Gatsby using Graph QL, Next requires manual work
+ - Nextjs supports both Static and Dynamic Routing
+ 
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
