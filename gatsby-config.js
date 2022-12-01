@@ -18,9 +18,10 @@ module.exports = {
         path: "./src/images/",
         name: "blog",
         path: `${__dirname}/blog`,
-        path: `${__dirname}/src/pages`,
       },
       __key: "images",
     },
+    "gatsby-plugin-mdx",
+    
   ],
 };

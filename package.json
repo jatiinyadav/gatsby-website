@@ -17,6 +17,7 @@
   "dependencies": {
     "gatsby": "^5.0.0",
     "gatsby-plugin-image": "^3.2.0",
+    "gatsby-plugin-mdx": "^5.2.0",
     "gatsby-plugin-sass": "^6.0.0",
     "gatsby-plugin-sharp": "^5.0.0",
     "gatsby-source-filesystem": "^5.0.0",
